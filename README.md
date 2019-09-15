@@ -1,0 +1,2 @@
+# relationships
+Laravel relationship example
